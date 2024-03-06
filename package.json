@@ -1,4 +1,28 @@
 {
+  "name": "html-inner-load",
+  "version": "1.0.0",
+  "description": "html inner loader",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Samped/html-inner-load.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samped/html-inner-load/issues"
+  },
+  "homepage": "https://github.com/Samped/html-inner-load#readme",
   "dependencies": {
     "innerload": "^1.0.0"
   }
